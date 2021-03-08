@@ -114,7 +114,7 @@ function App() {
 
       <section>
         <h2>real beauty resides in imperfection</h2>
-        {/* <img src={face} alt="Face" /> */}
+        {/* For future reference: <img src={face} alt="Face" /> */}
 
         <p>
           In a digital era, we sometimes feel the need to interact with
@@ -126,7 +126,7 @@ function App() {
       <section>
         <h2>expressiveness is... the new black</h2>
 
-        {/* <img src={fish} alt="Fish" /> */}
+        {/* For future reference: <img src={fish} alt="Fish" /> */}
         <p>
           This series of illustrations paradoxically combines absurdity and a
           deep sense of childishness and naivety.
