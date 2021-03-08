@@ -7,7 +7,6 @@ const headerStyles = css`
   display: flex;
   width: 100vw;
   justify-content: center;
-  background-color: red;
   margin: auto;
 
   a {
@@ -54,27 +53,23 @@ const firstPage = css`
     width: 40vh;
     align-items: bottom;
     vertical-align: bottom;
-    background-color: yellow;
   }
 
   p {
     font-family: sans-serif;
     color: #c2c2c2;
     font-size: 22px;
-    background-color: blue;
     vertical-align: bottom;
   }
 
   .download {
     height: 40px;
     width: 80px;
-    background-color: red;
   }
 
   .subscribe {
     height: 40px;
     width: 80px;
-    background-color: yellow;
   }
 
   video {
@@ -84,7 +79,6 @@ const firstPage = css`
     align-self: right;
     height: 60vh;
     margin-left: 70px;
-    background-color: red;
   }
 `;
 
